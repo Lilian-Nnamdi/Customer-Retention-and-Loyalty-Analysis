@@ -1,4 +1,4 @@
-# Analysis of sales transaction data with a focus on customer segmentation with RFM and cohort analysis (customer retention)
+# Analysis of sales transaction data with a focus on customer segmentation with RFM and customer retention using cohort analysis
 A Recency-Frequency-Monetary (RFM) analysis was carried out and customers were grouped into 5 segments, with this, we were able to see the best customers and the weakest customers. This analysis is good so that we can target different customer groups and send messages and advertisement that will be better suited for each customer group. It will also be good to look for ways to convert the almost inactive customers, probably by offering discounts on selected products and sending messages on special offers, etc.
 
 ## Datasource
